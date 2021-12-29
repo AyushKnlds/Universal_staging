@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_2</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>5520f90e-718f-4254-be1f-dfbf85f4aa34</testSuiteGuid>
+   <testCaseLink>
+      <guid>d29005f4-f8c9-4dea-bf5e-e3910f1e88a1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/users/TC_2</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a5cc5517-5f7c-41a6-b11e-a1aa0f690ded</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d78a54d7-8a07-4ddd-84a7-7ab0ef8e1342</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8720b06b-8676-49f7-b4ba-5f8726e1d408</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Universal (user watched video)/TC_earn_point</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>791966f5-c8f6-4578-bdca-6c3ab2bed2b8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ep2</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ce669b1a-f71b-43f1-9ab5-a9bf9f702177</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

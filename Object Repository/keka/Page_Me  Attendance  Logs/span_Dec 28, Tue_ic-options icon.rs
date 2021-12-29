@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Dec 28, Tue_ic-options icon</name>
+   <tag></tag>
+   <elementGuidId>55c4ae20-b8e2-4678-84f1-0653a0f1dcc0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='menu']/span)[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ic-options.icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tooltip</name>
+      <type>Main</type>
+      <value>Absent</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ic-options icon</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>tooltip-64</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-tns-0-0&quot;]/xhr-app-root[1]/div[@class=&quot;main-container&quot;]/employee-me[1]/div[@class=&quot;app-container&quot;]/employee-attendance[1]/div[@class=&quot;page-container&quot;]/div[1]/div[1]/div[1]/employee-attendance-logs[1]/div[1]/employee-attendance-list-view[1]/div[@class=&quot;card clear-margin border-top-0&quot;]/div[@class=&quot;card-body clear-padding&quot;]/div[1]/div[@class=&quot;d-flex align-items-center justify-content-between px-16 py-12 border-bottom on-hover&quot;]/div[3]/div[@class=&quot;w-38&quot;]/div[@class=&quot;dropdown&quot;]/a[@id=&quot;menu&quot;]/span[@class=&quot;ic-options icon&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//a[@id='menu']/span)[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/a/span</value>
+   </webElementXpaths>
+</WebElementEntity>

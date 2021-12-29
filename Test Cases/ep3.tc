@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ep3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>886ec62d-86df-492b-a508-264a46206e27</testCaseGuid>
+   <variable>
+      <defaultValue>22</defaultValue>
+      <description></description>
+      <id>be5fd523-89a7-46d6-b94e-5013e494e8ed</id>
+      <masked>false</masked>
+      <name>point</name>
+   </variable>
+</TestCaseEntity>

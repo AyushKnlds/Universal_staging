@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_movie description</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1e5714ba-0049-41a2-afc1-d77a5d48554a</testCaseGuid>
+   <variable>
+      <defaultValue>'Daniel Craig returns one last time as James Bond, starring alongside Oscar® winner Rami Malek in No Time To Die. Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.'</defaultValue>
+      <description></description>
+      <id>679fcc35-b9b6-4e4d-a6f2-1c83cc0ebeb4</id>
+      <masked>false</masked>
+      <name>notimetodie</name>
+   </variable>
+   <variable>
+      <defaultValue>'From award-winning writer/director Justin Chon and inspired by true events, Blue Bayou is the moving and timely story of a uniquely American family fighting for their future. Antonio LeBlanc (Chon), a Korean adoptee raised in a small town in the Louisiana bayou, is married to the love of his life Kathy (Alicia Vikander) and stepdad to their beloved daughter Jessie. Struggling to make a better life for his family, he must confront the ghosts of his past when he discovers that he could be deported from the only country he has ever called home.'</defaultValue>
+      <description></description>
+      <id>0a8e4e26-9168-41fc-a4c3-51ffc221b914</id>
+      <masked>false</masked>
+      <name>bluebayou</name>
+   </variable>
+</TestCaseEntity>

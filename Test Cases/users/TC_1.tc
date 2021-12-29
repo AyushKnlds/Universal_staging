@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdd24136-13b3-4dc0-b54b-57146f0b0ae5</testCaseGuid>
+   <variable>
+      <defaultValue>'newuser55444@outlook.com'</defaultValue>
+      <description></description>
+      <id>669fc6e2-a57c-482f-98b8-602c3a9daeca</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'User123@'</defaultValue>
+      <description></description>
+      <id>0b7cc8ae-03aa-4c2c-91a6-0a1a14ef7c06</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f23412ce-05fe-4db1-89f4-a978140aff8f</testCaseGuid>
+   <variable>
+      <defaultValue>'ayush.kumar@knoldus.com'</defaultValue>
+      <description></description>
+      <id>a5cc5517-5f7c-41a6-b11e-a1aa0f690ded</id>
+      <masked>false</masked>
+      <name>username1</name>
+   </variable>
+   <variable>
+      <defaultValue>'User123@'</defaultValue>
+      <description></description>
+      <id>d78a54d7-8a07-4ddd-84a7-7ab0ef8e1342</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>048f4712-59d5-420f-84e5-4e52ca5cef23</testCaseGuid>
+   <variable>
+      <defaultValue>'newuser5554@gmail.com'</defaultValue>
+      <description></description>
+      <id>60a9368e-7d87-4be1-8909-a8408edb7ad3</id>
+      <masked>false</masked>
+      <name>username2</name>
+   </variable>
+   <variable>
+      <defaultValue>'User123@'</defaultValue>
+      <description></description>
+      <id>b99dc3e4-8a24-47b3-835e-c1a38a39781e</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
